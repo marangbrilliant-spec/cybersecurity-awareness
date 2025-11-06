@@ -1,0 +1,16 @@
+Incident response template
+
+Field	Details /             Instructions
+Report ID:	                IR-0001
+Date/Time of Incident:    	DD/MM/YYYY HH:MM
+Reported By:               	Name & Position
+Location:	                  Physical or virtual location of the incident
+Incident Description:     	Detailed narrative of the incident, including sequence of events and how it was detected
+Impact Assessment:	        List affected systems, severity (Low/Medium/High), and potential business/data impact
+Immediate Actions Taken:	  Steps to contain or mitigate the incident (e.g., disconnecting systems, notifying security teams)
+Root Cause Analysis:Optional: Identify the cause (e.g., phishing email, malware, misconfiguration)
+Recovery Plan:	            Steps taken to restore affected systems and resume normal operations
+Recommendations / Preventive Measures:	Actions to prevent future incidents (e.g., training, patching, policy updates)
+Reported To:	              Supervisor / Manager / Security Officer
+ Signature:               	___________________
+
