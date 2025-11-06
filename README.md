@@ -1,6 +1,6 @@
 # Cybersecurity Awareness Mini Project  
 **Module:** C5-ICS-23 Cybersecurity Awareness  
-**Author:** Marang Brilliant Gaogalalwe  
+**Author:** Marang Brilliant Gaogalalwe-2540805 
 **Date:** November 2025  
 
 ## Overview  
