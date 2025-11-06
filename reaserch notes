@@ -1,0 +1,20 @@
+# Research Notes on Cybersecurity Threats
+
+## 1. Phishing
+Phishing involves deceptive emails or messages designed to trick users into revealing confidential information.  
+**Mitigation:** Awareness training, multi-factor authentication, and email filtering.
+
+## 2. Ransomware
+Malicious software that encrypts data and demands ransom for decryption keys.  
+**Mitigation:** Regular backups, reliable anti-malware, and user education.
+
+## 3. Denial of Service (DoS)
+Attackers flood servers with traffic, making resources unavailable.  
+**Mitigation:** Load balancers, firewalls, and rate-limiting tools.
+
+## 4. Password Attacks
+Hackers attempt to crack weak passwords using brute force or dictionary attacks.  
+**Mitigation:** Strong password policies and the use of password managers.
+
+---
+**Source:** (Europol, 2021, p. 4); (Chacon & Straub, 2014, p. 15)
